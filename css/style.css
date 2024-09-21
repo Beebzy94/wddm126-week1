@@ -8,11 +8,26 @@
     padding: 30px;
     text-align: center;
     background: #000000;
-    color: rgb(255, 213, 0);
+    color: rgb(136, 228, 234);
     font-size: 30px;
     margin-bottom: 20px;
     
   }
+
+  #contact {
+    padding: 10px;           /* Space inside the section */
+    margin: 15px 0;         /* Space outside the section */
+    border: 1px solid #ccc;  /* Light gray border */
+}
+
+#contact h2 {
+    font-size: 20px;        /* Font size for the header */
+}
+
+#contact p {
+    font-size: 14px;        /* Font size for the paragraph */
+}
+
 
 body {
     color: white;
