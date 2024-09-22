@@ -22,11 +22,14 @@
 
 #contact h2 {
     font-size: 20px;        /* Font size for the header */
-}
+}:
 
 #contact p {
-    font-size: 14px;        /* Font size for the paragraph */
+    font-size: 18px;   /* Font size for the paragraph */
+    line-height:1.6;
+
 }
+
 
 
 body {
